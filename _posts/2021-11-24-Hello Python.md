@@ -1,3 +1,9 @@
+---
+layout: single
+title: pythong 기본문법
+---
+
+
 ## 문자열(str)
 
 
