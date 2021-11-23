@@ -1,6 +1,6 @@
 ---
 layout: single
-title: pythong 기본문법
+title: python 기본문법
 ---
 
 
