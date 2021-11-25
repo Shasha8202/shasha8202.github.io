@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Python 기본문법
+title: Python 기본문법 (문자열, 컬렉션, 조건문, 반복문) 
 ---
 
 
