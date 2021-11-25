@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Python 기본문법 (함수, 모듈, 클래스와 인스턴스) 
+title: Python 기본문법(함수, 모듈, 클래스와 인스턴스) 
 ---
 
 
